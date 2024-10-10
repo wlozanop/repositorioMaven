@@ -1,0 +1,2801 @@
+[ {
+  "id" : 1,
+  "nombre" : "WOLF",
+  "tipo" : "SALVAJE",
+  "amo" : "HÉCTOR SANTOS COVARRUBIAS",
+  "edad" : 2,
+  "peso" : 13.989,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 2,
+  "nombre" : "CICADA",
+  "tipo" : "SALVAJE",
+  "amo" : "PATRICIA CASTILLO VALLE",
+  "edad" : 1,
+  "peso" : 168.917,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 3,
+  "nombre" : "BEETLE",
+  "tipo" : "SALVAJE",
+  "amo" : "SUSANA ARREDONDO OJEDA",
+  "edad" : 7,
+  "peso" : 40.887,
+  "genero" : "MACHO"
+}, {
+  "id" : 4,
+  "nombre" : "EAGLE",
+  "tipo" : "DOMESTICO",
+  "amo" : "VÍCTOR LEYVA SALDAÑA",
+  "edad" : 3,
+  "peso" : 49.25,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 5,
+  "nombre" : "BUTTERFLY",
+  "tipo" : "DOMESTICO",
+  "amo" : "SRITA. DANIEL ARIAS GALICIA",
+  "edad" : 8,
+  "peso" : 152.163,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 6,
+  "nombre" : "COD",
+  "tipo" : "DOMESTICO",
+  "amo" : "ING. JOSÉ GUADALUPE MAGAÑA MUÑIZ",
+  "edad" : 15,
+  "peso" : 29.005,
+  "genero" : "MACHO"
+}, {
+  "id" : 7,
+  "nombre" : "ZEBRA",
+  "tipo" : "SALVAJE",
+  "amo" : "CARLOS ALBERTO PEÑA RUIZ",
+  "edad" : 18,
+  "peso" : 85.124,
+  "genero" : "MACHO"
+}, {
+  "id" : 8,
+  "nombre" : "TORTOISE",
+  "tipo" : "SALVAJE",
+  "amo" : "SRITA. RODRIGO CANO AGUIRRE",
+  "edad" : 8,
+  "peso" : 24.573,
+  "genero" : "MACHO"
+}, {
+  "id" : 9,
+  "nombre" : "SEA LION",
+  "tipo" : "DOMESTICO",
+  "amo" : "ING. JAIME CABALLERO CÓRDOVA",
+  "edad" : 10,
+  "peso" : 94.605,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 10,
+  "nombre" : "HARE",
+  "tipo" : "SALVAJE",
+  "amo" : "SRITA. MARINA AGUILERA AGUIRRE",
+  "edad" : 5,
+  "peso" : 85.782,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 11,
+  "nombre" : "HOUND",
+  "tipo" : "SALVAJE",
+  "amo" : "ISABEL BARRAGÁN OROZCO",
+  "edad" : 6,
+  "peso" : 19.378,
+  "genero" : "MACHO"
+}, {
+  "id" : 12,
+  "nombre" : "APE",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. ESTHER RAMÍREZ SIERRA",
+  "edad" : 7,
+  "peso" : 196.148,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 13,
+  "nombre" : "WASP",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. MANUEL CÓRDOVA MENDOZA",
+  "edad" : 8,
+  "peso" : 111.657,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 14,
+  "nombre" : "WOLF",
+  "tipo" : "DOMESTICO",
+  "amo" : "TERESA DOMÍNGUEZ ZEPEDA",
+  "edad" : 8,
+  "peso" : 84.409,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 15,
+  "nombre" : "WHALE",
+  "tipo" : "SALVAJE",
+  "amo" : "MANUEL NAVARRO PALMA",
+  "edad" : 19,
+  "peso" : 50.712,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 16,
+  "nombre" : "HERRING",
+  "tipo" : "DOMESTICO",
+  "amo" : "DR. RAFAEL ARENAS NAVA",
+  "edad" : 12,
+  "peso" : 29.893,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 17,
+  "nombre" : "GORILLA",
+  "tipo" : "DOMESTICO",
+  "amo" : "GABRIEL GUILLÉN VILLEGAS",
+  "edad" : 6,
+  "peso" : 133.049,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 18,
+  "nombre" : "OYSTER",
+  "tipo" : "SALVAJE",
+  "amo" : "SRITA. MARÍA DE LOURDES BARRAGÁN MÉNDEZ",
+  "edad" : 15,
+  "peso" : 147.304,
+  "genero" : "MACHO"
+}, {
+  "id" : 19,
+  "nombre" : "MAMMOTH",
+  "tipo" : "SALVAJE",
+  "amo" : "SR. JAIME MONROY ESPARZA",
+  "edad" : 8,
+  "peso" : 127.161,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 20,
+  "nombre" : "TURTLE ",
+  "tipo" : "DOMESTICO",
+  "amo" : "SRA. CRISTINA ESPINOZA MONROY",
+  "edad" : 10,
+  "peso" : 121.221,
+  "genero" : "MACHO"
+}, {
+  "id" : 21,
+  "nombre" : "GORILLA",
+  "tipo" : "DOMESTICO",
+  "amo" : "VERÓNICA RAMÍREZ ARIAS",
+  "edad" : 2,
+  "peso" : 149.044,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 22,
+  "nombre" : "GOAT",
+  "tipo" : "SALVAJE",
+  "amo" : "GILBERTO FRANCISCO IBARRA",
+  "edad" : 7,
+  "peso" : 45.865,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 23,
+  "nombre" : "PANDA",
+  "tipo" : "SALVAJE",
+  "amo" : "SR. JULIO MACÍAS JARAMILLO",
+  "edad" : 1,
+  "peso" : 131.279,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 24,
+  "nombre" : "CRAB",
+  "tipo" : "DOMESTICO",
+  "amo" : "MANUEL ORDOÑEZ ORTIZ",
+  "edad" : 10,
+  "peso" : 66.204,
+  "genero" : "MACHO"
+}, {
+  "id" : 25,
+  "nombre" : "CATTLE",
+  "tipo" : "SALVAJE",
+  "amo" : "NICOLÁS GUILLÉN VILLA",
+  "edad" : 5,
+  "peso" : 15.178,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 26,
+  "nombre" : "REINDEER",
+  "tipo" : "SALVAJE",
+  "amo" : "SRA. JOSÉ ALFREDO VENTURA HUERTA",
+  "edad" : 3,
+  "peso" : 147.16,
+  "genero" : "MACHO"
+}, {
+  "id" : 27,
+  "nombre" : "SNAIL",
+  "tipo" : "SALVAJE",
+  "amo" : "SRA. SAÚL ORTIZ ACEVEDO",
+  "edad" : 6,
+  "peso" : 168.445,
+  "genero" : "MACHO"
+}, {
+  "id" : 28,
+  "nombre" : "ARMADILLO",
+  "tipo" : "DOMESTICO",
+  "amo" : "MANUELA ARENAS MEJÍA",
+  "edad" : 16,
+  "peso" : 24.239,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 29,
+  "nombre" : "CATTLE",
+  "tipo" : "DOMESTICO",
+  "amo" : "ALBERTO OCHOA DURÁN",
+  "edad" : 7,
+  "peso" : 165.036,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 30,
+  "nombre" : "WALRUS",
+  "tipo" : "SALVAJE",
+  "amo" : "BEATRIZ GUILLÉN MENDOZA",
+  "edad" : 18,
+  "peso" : 32.441,
+  "genero" : "MACHO"
+}, {
+  "id" : 31,
+  "nombre" : "IMPALA",
+  "tipo" : "SALVAJE",
+  "amo" : "SOCORRO RUBIO CORONA",
+  "edad" : 6,
+  "peso" : 91.34,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 32,
+  "nombre" : "HAMSTER",
+  "tipo" : "SALVAJE",
+  "amo" : "ING. JORGE ALBERTO ARMENTA MONROY",
+  "edad" : 3,
+  "peso" : 159.405,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 33,
+  "nombre" : "PRAIRIE DOG",
+  "tipo" : "SALVAJE",
+  "amo" : "JOSEFINA NAVARRO BALTAZAR",
+  "edad" : 6,
+  "peso" : 20.385,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 34,
+  "nombre" : "HIPPOPOTAMUS",
+  "tipo" : "SALVAJE",
+  "amo" : "SRA. FRANCISCO BECERRA VILLEGAS",
+  "edad" : 3,
+  "peso" : 186.863,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 35,
+  "nombre" : "SKUNK",
+  "tipo" : "SALVAJE",
+  "amo" : "ING. ELENA SAUCEDO PONCE",
+  "edad" : 8,
+  "peso" : 72.009,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 36,
+  "nombre" : "SEA LION",
+  "tipo" : "SALVAJE",
+  "amo" : "MARTHA CABALLERO GARCÍA",
+  "edad" : 19,
+  "peso" : 110.392,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 37,
+  "nombre" : "OX",
+  "tipo" : "DOMESTICO",
+  "amo" : "ING. AGUSTINA CABALLERO GARDUÑO",
+  "edad" : 14,
+  "peso" : 18.549,
+  "genero" : "MACHO"
+}, {
+  "id" : 38,
+  "nombre" : "CARIBOU",
+  "tipo" : "SALVAJE",
+  "amo" : "CLAUDIA HUERTA DOMÍNGUEZ",
+  "edad" : 14,
+  "peso" : 14.848,
+  "genero" : "MACHO"
+}, {
+  "id" : 39,
+  "nombre" : "ELK",
+  "tipo" : "SALVAJE",
+  "amo" : "IRMA PIÑA ROMO",
+  "edad" : 14,
+  "peso" : 164.175,
+  "genero" : "MACHO"
+}, {
+  "id" : 40,
+  "nombre" : "WALRUS",
+  "tipo" : "DOMESTICO",
+  "amo" : "SRA. JULIA GUERRA CARBAJAL",
+  "edad" : 15,
+  "peso" : 188.278,
+  "genero" : "MACHO"
+}, {
+  "id" : 41,
+  "nombre" : "SEA LION",
+  "tipo" : "SALVAJE",
+  "amo" : "MARÍA LUISA ZAMUDIO CARRASCO",
+  "edad" : 2,
+  "peso" : 135.773,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 42,
+  "nombre" : "SKUNK",
+  "tipo" : "DOMESTICO",
+  "amo" : "SAMUEL MUÑIZ PALMA",
+  "edad" : 9,
+  "peso" : 25.509,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 43,
+  "nombre" : "CAT",
+  "tipo" : "SALVAJE",
+  "amo" : "ROSA MARÍA VILLALOBOS JÍMENEZ",
+  "edad" : 4,
+  "peso" : 44.926,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 44,
+  "nombre" : "JELLYFISH",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. IRENE VÁZQUEZ BAUTISTA",
+  "edad" : 9,
+  "peso" : 112.057,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 45,
+  "nombre" : "BUTTERFLY",
+  "tipo" : "DOMESTICO",
+  "amo" : "ROBERTO BARAJAS COVARRUBIAS",
+  "edad" : 14,
+  "peso" : 158.448,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 46,
+  "nombre" : "CRICKET",
+  "tipo" : "SALVAJE",
+  "amo" : "SRA. JOSÉ GUADALUPE GARZA GALLEGOS",
+  "edad" : 17,
+  "peso" : 186.281,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 47,
+  "nombre" : "WOODCHUCK",
+  "tipo" : "SALVAJE",
+  "amo" : "SR. HUMBERTO SALAS CASTELLANOS",
+  "edad" : 8,
+  "peso" : 177.863,
+  "genero" : "MACHO"
+}, {
+  "id" : 48,
+  "nombre" : "TROUT",
+  "tipo" : "DOMESTICO",
+  "amo" : "JUAN MARÍN ARANDA",
+  "edad" : 3,
+  "peso" : 159.807,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 49,
+  "nombre" : "LOCUST",
+  "tipo" : "SALVAJE",
+  "amo" : "ABEL ORDOÑEZ MORÁN",
+  "edad" : 20,
+  "peso" : 59.96,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 50,
+  "nombre" : "ZEBRA",
+  "tipo" : "SALVAJE",
+  "amo" : "ESTEBAN ALFARO ZAPATA",
+  "edad" : 12,
+  "peso" : 34.647,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 51,
+  "nombre" : "SHEEP",
+  "tipo" : "SALVAJE",
+  "amo" : "SONIA AMADOR MALDONADO",
+  "edad" : 2,
+  "peso" : 128.911,
+  "genero" : "MACHO"
+}, {
+  "id" : 52,
+  "nombre" : "MOLE",
+  "tipo" : "DOMESTICO",
+  "amo" : "SRITA. SUSANA SALINAS MONDRAGÓN",
+  "edad" : 4,
+  "peso" : 46.872,
+  "genero" : "MACHO"
+}, {
+  "id" : 53,
+  "nombre" : "JELLYFISH",
+  "tipo" : "DOMESTICO",
+  "amo" : "HÉCTOR LUNA NÁJERA",
+  "edad" : 8,
+  "peso" : 139.415,
+  "genero" : "MACHO"
+}, {
+  "id" : 54,
+  "nombre" : "JACKAL",
+  "tipo" : "DOMESTICO",
+  "amo" : "SR. RAFAEL JUÁREZ SALAS",
+  "edad" : 2,
+  "peso" : 29.798,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 55,
+  "nombre" : "DINOSAUR",
+  "tipo" : "SALVAJE",
+  "amo" : "ING. JOSÉ ALFREDO GÁLVEZ ANDRADE",
+  "edad" : 11,
+  "peso" : 47.735,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 56,
+  "nombre" : "BEE",
+  "tipo" : "DOMESTICO",
+  "amo" : "MARCELA CÁRDENAS GODÍNEZ",
+  "edad" : 15,
+  "peso" : 189.795,
+  "genero" : "MACHO"
+}, {
+  "id" : 57,
+  "nombre" : "DOG",
+  "tipo" : "DOMESTICO",
+  "amo" : "JORGE ALBERTO CÁZARES GUEVARA",
+  "edad" : 9,
+  "peso" : 170.027,
+  "genero" : "MACHO"
+}, {
+  "id" : 58,
+  "nombre" : "SWAN",
+  "tipo" : "SALVAJE",
+  "amo" : "ELIZABETH ACOSTA CARBAJAL",
+  "edad" : 17,
+  "peso" : 53.186,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 59,
+  "nombre" : "CAMEL",
+  "tipo" : "SALVAJE",
+  "amo" : "ADELA GALLEGOS GARDUÑO",
+  "edad" : 17,
+  "peso" : 5.025,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 60,
+  "nombre" : "LLAMA",
+  "tipo" : "SALVAJE",
+  "amo" : "YOLANDA OJEDA BECERRA",
+  "edad" : 5,
+  "peso" : 89.738,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 61,
+  "nombre" : "SERVAL",
+  "tipo" : "SALVAJE",
+  "amo" : "SR. ALFREDO BARRON DE LEÓN",
+  "edad" : 3,
+  "peso" : 164.989,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 62,
+  "nombre" : "TROUT",
+  "tipo" : "SALVAJE",
+  "amo" : "MARTHA PÉREZ MONTES",
+  "edad" : 12,
+  "peso" : 53.217,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 63,
+  "nombre" : "ALLIGATOR",
+  "tipo" : "SALVAJE",
+  "amo" : "SOFÍA BONILLA RÍOS",
+  "edad" : 9,
+  "peso" : 184.965,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 64,
+  "nombre" : "MOOSE",
+  "tipo" : "DOMESTICO",
+  "amo" : "SRITA. ANDREA MORA TÉLLEZ",
+  "edad" : 11,
+  "peso" : 51.806,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 65,
+  "nombre" : "GRASSHOPPER",
+  "tipo" : "SALVAJE",
+  "amo" : "SRITA. LETICIA ALFARO OCHOA",
+  "edad" : 19,
+  "peso" : 156.439,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 66,
+  "nombre" : "CHEETAH",
+  "tipo" : "DOMESTICO",
+  "amo" : "ING. ANDRÉS RICO GALLEGOS",
+  "edad" : 6,
+  "peso" : 161.065,
+  "genero" : "MACHO"
+}, {
+  "id" : 67,
+  "nombre" : "WORM",
+  "tipo" : "SALVAJE",
+  "amo" : "ING. CARLOS SOTELO FERNÁNDEZ",
+  "edad" : 4,
+  "peso" : 53.269,
+  "genero" : "MACHO"
+}, {
+  "id" : 68,
+  "nombre" : "FERRET",
+  "tipo" : "DOMESTICO",
+  "amo" : "ING. RAMÓN GÁMEZ QUEZADA",
+  "edad" : 12,
+  "peso" : 56.979,
+  "genero" : "MACHO"
+}, {
+  "id" : 69,
+  "nombre" : "SCORPION",
+  "tipo" : "SALVAJE",
+  "amo" : "GUILLERMINA SALAS TRUJILLO",
+  "edad" : 2,
+  "peso" : 25.187,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 70,
+  "nombre" : "TROUT",
+  "tipo" : "DOMESTICO",
+  "amo" : "ING. ANDRÉS GARCÍA CARMONA",
+  "edad" : 16,
+  "peso" : 96.513,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 71,
+  "nombre" : "PIG",
+  "tipo" : "SALVAJE",
+  "amo" : "SR. JOSÉ GUADALUPE VALDÉS NAVARRO",
+  "edad" : 20,
+  "peso" : 11.929,
+  "genero" : "MACHO"
+}, {
+  "id" : 72,
+  "nombre" : "MINK",
+  "tipo" : "DOMESTICO",
+  "amo" : "SR. TERESA MADRIGAL RÍOS",
+  "edad" : 12,
+  "peso" : 182.591,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 73,
+  "nombre" : "FOX",
+  "tipo" : "SALVAJE",
+  "amo" : "SRITA. MARÍA LUISA MEJÍA VALDEZ",
+  "edad" : 13,
+  "peso" : 197.197,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 74,
+  "nombre" : "FERRET",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. LETICIA MONROY GARZA",
+  "edad" : 16,
+  "peso" : 115.029,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 75,
+  "nombre" : "MUSKRAT",
+  "tipo" : "DOMESTICO",
+  "amo" : "ING. SAÚL HIDALGO DOMÍNGUEZ",
+  "edad" : 20,
+  "peso" : 21.92,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 76,
+  "nombre" : "EEL",
+  "tipo" : "SALVAJE",
+  "amo" : "ING. CAROLINA RIVAS CORONADO",
+  "edad" : 18,
+  "peso" : 18.832,
+  "genero" : "MACHO"
+}, {
+  "id" : 77,
+  "nombre" : "ELK",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. VÍCTOR MONROY MARTÍNEZ",
+  "edad" : 13,
+  "peso" : 158.397,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 78,
+  "nombre" : "MUSKRAT",
+  "tipo" : "DOMESTICO",
+  "amo" : "ING. ANA MARÍA BALDERAS VELÁZQUEZ",
+  "edad" : 19,
+  "peso" : 11.271,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 79,
+  "nombre" : "YELLOWJACKET",
+  "tipo" : "DOMESTICO",
+  "amo" : "IRMA MENDOZA DURÁN",
+  "edad" : 5,
+  "peso" : 28.943,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 80,
+  "nombre" : "SEAL",
+  "tipo" : "SALVAJE",
+  "amo" : "SRITA. ABEL ESCAMILLA DE LA CRUZ",
+  "edad" : 20,
+  "peso" : 14.411,
+  "genero" : "MACHO"
+}, {
+  "id" : 81,
+  "nombre" : "RABBIT",
+  "tipo" : "SALVAJE",
+  "amo" : "SRA. JOSEFINA OJEDA GAYTÁN",
+  "edad" : 13,
+  "peso" : 81.244,
+  "genero" : "MACHO"
+}, {
+  "id" : 82,
+  "nombre" : "DONKEY",
+  "tipo" : "SALVAJE",
+  "amo" : "GRACIELA VERA VILLALOBOS",
+  "edad" : 19,
+  "peso" : 13.018,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 83,
+  "nombre" : "GOLDFISH",
+  "tipo" : "DOMESTICO",
+  "amo" : "MAGDALENA SEGURA BRAVO",
+  "edad" : 10,
+  "peso" : 3.369,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 84,
+  "nombre" : "MANATEE",
+  "tipo" : "SALVAJE",
+  "amo" : "ANGELINA CORTÉS HURTADO",
+  "edad" : 14,
+  "peso" : 153.637,
+  "genero" : "MACHO"
+}, {
+  "id" : 85,
+  "nombre" : "JELLYFISH",
+  "tipo" : "SALVAJE",
+  "amo" : "SRA. JORGE CORONADO HUERTA",
+  "edad" : 17,
+  "peso" : 77.337,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 86,
+  "nombre" : "WASP",
+  "tipo" : "SALVAJE",
+  "amo" : "SR. CÉSAR JÍMENEZ VARELA",
+  "edad" : 14,
+  "peso" : 72.442,
+  "genero" : "MACHO"
+}, {
+  "id" : 87,
+  "nombre" : "LIZARD",
+  "tipo" : "SALVAJE",
+  "amo" : "SRA. NORMA ARREDONDO URIBE",
+  "edad" : 4,
+  "peso" : 165.169,
+  "genero" : "MACHO"
+}, {
+  "id" : 88,
+  "nombre" : "DUCK",
+  "tipo" : "SALVAJE",
+  "amo" : "RUBÉN ARANDA RESÉNDIZ",
+  "edad" : 20,
+  "peso" : 176.335,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 89,
+  "nombre" : "TURTLE ",
+  "tipo" : "DOMESTICO",
+  "amo" : "ISMAEL VARELA GODÍNEZ",
+  "edad" : 18,
+  "peso" : 77.889,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 90,
+  "nombre" : "FISH",
+  "tipo" : "SALVAJE",
+  "amo" : "SR. EVA VARELA BALDERAS",
+  "edad" : 7,
+  "peso" : 116.705,
+  "genero" : "MACHO"
+}, {
+  "id" : 91,
+  "nombre" : "LEOPARD",
+  "tipo" : "SALVAJE",
+  "amo" : "LILIA RUBIO RUBIO",
+  "edad" : 9,
+  "peso" : 108.876,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 92,
+  "nombre" : "ARMADILLO",
+  "tipo" : "SALVAJE",
+  "amo" : "SR. ALEJANDRA BENÍTEZ TREVIÑO",
+  "edad" : 1,
+  "peso" : 56.647,
+  "genero" : "MACHO"
+}, {
+  "id" : 93,
+  "nombre" : "CICADA",
+  "tipo" : "SALVAJE",
+  "amo" : "VICENTE ARENAS OJEDA",
+  "edad" : 18,
+  "peso" : 63.643,
+  "genero" : "MACHO"
+}, {
+  "id" : 94,
+  "nombre" : "JACKAL",
+  "tipo" : "DOMESTICO",
+  "amo" : "ING. GUILLERMINA VENTURA ORTIZ",
+  "edad" : 10,
+  "peso" : 61.073,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 95,
+  "nombre" : "LIZARD",
+  "tipo" : "SALVAJE",
+  "amo" : "SRA. EVA ANTONIO CASTRO",
+  "edad" : 12,
+  "peso" : 22.831,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 96,
+  "nombre" : "CROW",
+  "tipo" : "DOMESTICO",
+  "amo" : "ING. BENJAMÍN GONZÁLEZ ANTONIO",
+  "edad" : 10,
+  "peso" : 62.398,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 97,
+  "nombre" : "YELLOWJACKET",
+  "tipo" : "SALVAJE",
+  "amo" : "SR. JORGE OCAMPO MENDOZA",
+  "edad" : 17,
+  "peso" : 110.367,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 98,
+  "nombre" : "PUG",
+  "tipo" : "SALVAJE",
+  "amo" : "CATALINA ARIAS RÍOS",
+  "edad" : 17,
+  "peso" : 104.43,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 99,
+  "nombre" : "GOLDFISH",
+  "tipo" : "DOMESTICO",
+  "amo" : "ARACELI ESPARZA LEAL",
+  "edad" : 7,
+  "peso" : 56.449,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 100,
+  "nombre" : "DOLPHIN",
+  "tipo" : "DOMESTICO",
+  "amo" : "SRA. OMAR ANAYA DÍAZ",
+  "edad" : 7,
+  "peso" : 93.939,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 101,
+  "nombre" : "GNAT",
+  "tipo" : "SALVAJE",
+  "amo" : "SRITA. JOSÉ JUAN RAMÍREZ QUEZADA",
+  "edad" : 3,
+  "peso" : 55.817,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 102,
+  "nombre" : "MARTEN",
+  "tipo" : "SALVAJE",
+  "amo" : "ING. RICARDO ARIAS GARCÍA",
+  "edad" : 5,
+  "peso" : 172.606,
+  "genero" : "MACHO"
+}, {
+  "id" : 103,
+  "nombre" : "CHIMPANZEE",
+  "tipo" : "DOMESTICO",
+  "amo" : "LIDIA ARMENTA CAMPOS",
+  "edad" : 11,
+  "peso" : 155.558,
+  "genero" : "MACHO"
+}, {
+  "id" : 104,
+  "nombre" : "GUINEA PIG",
+  "tipo" : "SALVAJE",
+  "amo" : "SAÚL VARGAS TÉLLEZ",
+  "edad" : 20,
+  "peso" : 83.738,
+  "genero" : "MACHO"
+}, {
+  "id" : 105,
+  "nombre" : "SNAIL",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. ROGELIO MEDRANO SANTANA",
+  "edad" : 10,
+  "peso" : 192.487,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 106,
+  "nombre" : "WOODCHUCK",
+  "tipo" : "DOMESTICO",
+  "amo" : "FERNANDO LIRA SANTANA",
+  "edad" : 14,
+  "peso" : 116.734,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 107,
+  "nombre" : "SEA LION",
+  "tipo" : "SALVAJE",
+  "amo" : "ING. GERARDO JARAMILLO ZÁRATE",
+  "edad" : 10,
+  "peso" : 166.781,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 108,
+  "nombre" : "MINNOW",
+  "tipo" : "DOMESTICO",
+  "amo" : "MERCEDES DÁVILA VIDAL",
+  "edad" : 14,
+  "peso" : 179.629,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 109,
+  "nombre" : "DONKEY",
+  "tipo" : "DOMESTICO",
+  "amo" : "JOSÉ JUAN QUINTERO VILLALOBOS",
+  "edad" : 9,
+  "peso" : 111.341,
+  "genero" : "MACHO"
+}, {
+  "id" : 110,
+  "nombre" : "TOAD",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. JULIO RÍOS VARGAS",
+  "edad" : 16,
+  "peso" : 101.691,
+  "genero" : "MACHO"
+}, {
+  "id" : 111,
+  "nombre" : "CARIBOU",
+  "tipo" : "DOMESTICO",
+  "amo" : "ELIZABETH ESCAMILLA FUENTES",
+  "edad" : 18,
+  "peso" : 84.473,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 112,
+  "nombre" : "CROW",
+  "tipo" : "DOMESTICO",
+  "amo" : "CÉSAR ORTEGA HERNÁNDEZ",
+  "edad" : 20,
+  "peso" : 57.15,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 113,
+  "nombre" : "PORCUPINE",
+  "tipo" : "SALVAJE",
+  "amo" : "ING. KARINA ÁVILES ROJAS",
+  "edad" : 7,
+  "peso" : 182.529,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 114,
+  "nombre" : "HORNET",
+  "tipo" : "DOMESTICO",
+  "amo" : "SRITA. ESTHER SALAZAR PARRA",
+  "edad" : 3,
+  "peso" : 16.987,
+  "genero" : "MACHO"
+}, {
+  "id" : 115,
+  "nombre" : "MARTEN",
+  "tipo" : "SALVAJE",
+  "amo" : "CÉSAR CÁZARES LIRA",
+  "edad" : 16,
+  "peso" : 84.601,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 116,
+  "nombre" : "GOOSE",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. GUADALUPE ROMO MÉNDEZ",
+  "edad" : 10,
+  "peso" : 37.307,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 117,
+  "nombre" : "LIZARD",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. MARINA GRANADOS NÁJERA",
+  "edad" : 17,
+  "peso" : 181.35,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 118,
+  "nombre" : "BABOON",
+  "tipo" : "DOMESTICO",
+  "amo" : "SRA. RODRIGO ARANDA ZAVALA",
+  "edad" : 9,
+  "peso" : 130.912,
+  "genero" : "MACHO"
+}, {
+  "id" : 119,
+  "nombre" : "JELLYFISH",
+  "tipo" : "SALVAJE",
+  "amo" : "ING. ROSALBA RIVERA SERRANO",
+  "edad" : 2,
+  "peso" : 145.472,
+  "genero" : "MACHO"
+}, {
+  "id" : 120,
+  "nombre" : "WOMBAT",
+  "tipo" : "SALVAJE",
+  "amo" : "ANGÉLICA TREVIÑO ARROYO",
+  "edad" : 6,
+  "peso" : 71.257,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 121,
+  "nombre" : "DOLPHIN",
+  "tipo" : "DOMESTICO",
+  "amo" : "JOSÉ ANGEL ÁLVAREZ QUINTANA",
+  "edad" : 4,
+  "peso" : 29.282,
+  "genero" : "MACHO"
+}, {
+  "id" : 122,
+  "nombre" : "RAVEN",
+  "tipo" : "SALVAJE",
+  "amo" : "SRITA. IRENE DE LA CRUZ AMADOR",
+  "edad" : 4,
+  "peso" : 101.494,
+  "genero" : "MACHO"
+}, {
+  "id" : 123,
+  "nombre" : "GIRAFFE",
+  "tipo" : "SALVAJE",
+  "amo" : "FELIPE GALINDO RIVERA",
+  "edad" : 20,
+  "peso" : 44.957,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 124,
+  "nombre" : "TIGER",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. JOSÉ DÁVILA LIRA",
+  "edad" : 6,
+  "peso" : 180.018,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 125,
+  "nombre" : "WEASEL",
+  "tipo" : "SALVAJE",
+  "amo" : "ARACELI FRANCISCO QUEZADA",
+  "edad" : 14,
+  "peso" : 44.193,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 126,
+  "nombre" : "GOAT",
+  "tipo" : "SALVAJE",
+  "amo" : "SRA. ARACELI BARRAGÁN HERRERA",
+  "edad" : 3,
+  "peso" : 23.632,
+  "genero" : "MACHO"
+}, {
+  "id" : 127,
+  "nombre" : "IMPALA",
+  "tipo" : "SALVAJE",
+  "amo" : "CRISTINA OLVERA MATA",
+  "edad" : 11,
+  "peso" : 41.356,
+  "genero" : "MACHO"
+}, {
+  "id" : 128,
+  "nombre" : "HORNET",
+  "tipo" : "SALVAJE",
+  "amo" : "ING. IRMA ANTONIO ORTIZ",
+  "edad" : 17,
+  "peso" : 75.162,
+  "genero" : "MACHO"
+}, {
+  "id" : 129,
+  "nombre" : "FLY",
+  "tipo" : "DOMESTICO",
+  "amo" : "ISIDRO VARELA ROMERO",
+  "edad" : 13,
+  "peso" : 124.923,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 130,
+  "nombre" : "OX",
+  "tipo" : "DOMESTICO",
+  "amo" : "SRA. JUAN ANTONIO PONCE ARTEAGA",
+  "edad" : 2,
+  "peso" : 89.421,
+  "genero" : "MACHO"
+}, {
+  "id" : 131,
+  "nombre" : "GNAT",
+  "tipo" : "DOMESTICO",
+  "amo" : "MARÍA LUISA VALENZUELA VELASCO",
+  "edad" : 15,
+  "peso" : 182.047,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 132,
+  "nombre" : "WILDEBEEST",
+  "tipo" : "DOMESTICO",
+  "amo" : "OLIVIA NAVARRO PERALTA",
+  "edad" : 9,
+  "peso" : 87.34,
+  "genero" : "MACHO"
+}, {
+  "id" : 133,
+  "nombre" : "TORTOISE",
+  "tipo" : "SALVAJE",
+  "amo" : "SRA. MARTÍN ÁLVAREZ PERALTA",
+  "edad" : 2,
+  "peso" : 143.251,
+  "genero" : "MACHO"
+}, {
+  "id" : 134,
+  "nombre" : "RAT",
+  "tipo" : "DOMESTICO",
+  "amo" : "SR. RAFAEL AGUIRRE GÁLVEZ",
+  "edad" : 16,
+  "peso" : 44.813,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 135,
+  "nombre" : "GNU",
+  "tipo" : "DOMESTICO",
+  "amo" : "CAROLINA GUZMÁN MONROY",
+  "edad" : 2,
+  "peso" : 128.423,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 136,
+  "nombre" : "DEER",
+  "tipo" : "DOMESTICO",
+  "amo" : "SRA. LUZ MARÍA CARRASCO MACÍAS",
+  "edad" : 2,
+  "peso" : 173.071,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 137,
+  "nombre" : "YELLOWJACKET",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. MOISÉS DE LA CRUZ CORONADO",
+  "edad" : 9,
+  "peso" : 123.644,
+  "genero" : "MACHO"
+}, {
+  "id" : 138,
+  "nombre" : "GNU",
+  "tipo" : "SALVAJE",
+  "amo" : "ESTELA ANAYA ESPARZA",
+  "edad" : 13,
+  "peso" : 115.569,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 139,
+  "nombre" : "MOSQUITO",
+  "tipo" : "SALVAJE",
+  "amo" : "SR. ELVIRA VEGA DÁVILA",
+  "edad" : 6,
+  "peso" : 137.336,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 140,
+  "nombre" : "SNAIL",
+  "tipo" : "SALVAJE",
+  "amo" : "AGUSTINA FLORES SORIANO",
+  "edad" : 18,
+  "peso" : 140.599,
+  "genero" : "MACHO"
+}, {
+  "id" : 141,
+  "nombre" : "ALLIGATOR",
+  "tipo" : "DOMESTICO",
+  "amo" : "AGUSTÍN SILVA GUZMÁN",
+  "edad" : 17,
+  "peso" : 128.176,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 142,
+  "nombre" : "SWAN",
+  "tipo" : "DOMESTICO",
+  "amo" : "ING. PETRA SOLANO BALDERAS",
+  "edad" : 17,
+  "peso" : 83.461,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 143,
+  "nombre" : "MOSQUITO",
+  "tipo" : "SALVAJE",
+  "amo" : "GABRIELA ZAMORA FUENTES",
+  "edad" : 5,
+  "peso" : 164.339,
+  "genero" : "MACHO"
+}, {
+  "id" : 144,
+  "nombre" : "FROG",
+  "tipo" : "DOMESTICO",
+  "amo" : "SANDRA MAGAÑA ESQUIVEL",
+  "edad" : 12,
+  "peso" : 169.754,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 145,
+  "nombre" : "HAMSTER",
+  "tipo" : "SALVAJE",
+  "amo" : "SR. MÓNICA DOMÍNGUEZ NÁJERA",
+  "edad" : 13,
+  "peso" : 85.044,
+  "genero" : "MACHO"
+}, {
+  "id" : 146,
+  "nombre" : "LLAMA",
+  "tipo" : "DOMESTICO",
+  "amo" : "SRITA. JORGE ALBERTO ESCOBAR GRANADOS",
+  "edad" : 4,
+  "peso" : 167.471,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 147,
+  "nombre" : "SNAIL",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. JAVIER GALICIA SÁNCHEZ",
+  "edad" : 9,
+  "peso" : 5.237,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 148,
+  "nombre" : "MAMMOTH",
+  "tipo" : "DOMESTICO",
+  "amo" : "ISRAEL ZARAGOZA VALENCIA",
+  "edad" : 3,
+  "peso" : 47.584,
+  "genero" : "MACHO"
+}, {
+  "id" : 149,
+  "nombre" : "SQUIRREL",
+  "tipo" : "DOMESTICO",
+  "amo" : "MARIBEL ARREOLA ROSALES",
+  "edad" : 5,
+  "peso" : 64.055,
+  "genero" : "MACHO"
+}, {
+  "id" : 150,
+  "nombre" : "OTTER",
+  "tipo" : "SALVAJE",
+  "amo" : "JAIME ROMO VÁSQUEZ",
+  "edad" : 1,
+  "peso" : 197.222,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 151,
+  "nombre" : "PORPOISE",
+  "tipo" : "DOMESTICO",
+  "amo" : "LUZ MARÍA ÁVILA SALAZAR",
+  "edad" : 18,
+  "peso" : 53.565,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 152,
+  "nombre" : "IMPALA",
+  "tipo" : "DOMESTICO",
+  "amo" : "DR. MARIANA DE LEÓN MEDINA",
+  "edad" : 8,
+  "peso" : 158.024,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 153,
+  "nombre" : "WALRUS",
+  "tipo" : "SALVAJE",
+  "amo" : "SRITA. FABIOLA TOLEDO CÁZARES",
+  "edad" : 12,
+  "peso" : 152.591,
+  "genero" : "MACHO"
+}, {
+  "id" : 154,
+  "nombre" : "WOODCHUCK",
+  "tipo" : "DOMESTICO",
+  "amo" : "SRA. BERTHA RIVERA GALLEGOS",
+  "edad" : 14,
+  "peso" : 30.515,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 155,
+  "nombre" : "FERRET",
+  "tipo" : "DOMESTICO",
+  "amo" : "DR. BERTHA RAMOS AYALA",
+  "edad" : 11,
+  "peso" : 5.943,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 156,
+  "nombre" : "CAMEL",
+  "tipo" : "DOMESTICO",
+  "amo" : "RAFAEL ARIAS GUERRERO",
+  "edad" : 17,
+  "peso" : 32.277,
+  "genero" : "MACHO"
+}, {
+  "id" : 157,
+  "nombre" : "LOCUST",
+  "tipo" : "SALVAJE",
+  "amo" : "SR. ABEL LIRA AYALA",
+  "edad" : 11,
+  "peso" : 23.001,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 158,
+  "nombre" : "ANTELOPE",
+  "tipo" : "SALVAJE",
+  "amo" : "JUAN ANTONIO MARÍN RODRÍGUEZ",
+  "edad" : 2,
+  "peso" : 116.093,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 159,
+  "nombre" : "ANT",
+  "tipo" : "DOMESTICO",
+  "amo" : "ING. ANTONIA LEÓN CORTEZ",
+  "edad" : 10,
+  "peso" : 62.275,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 160,
+  "nombre" : "SCORPION",
+  "tipo" : "SALVAJE",
+  "amo" : "SONIA ALVARADO DE LEÓN",
+  "edad" : 15,
+  "peso" : 12.179,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 161,
+  "nombre" : "MANATEE",
+  "tipo" : "SALVAJE",
+  "amo" : "SRA. VICENTE HUERTA VÁSQUEZ",
+  "edad" : 17,
+  "peso" : 39.704,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 162,
+  "nombre" : "BEAVER",
+  "tipo" : "DOMESTICO",
+  "amo" : "SR. PEDRO MENDOZA ALVARADO",
+  "edad" : 3,
+  "peso" : 187.138,
+  "genero" : "MACHO"
+}, {
+  "id" : 163,
+  "nombre" : "LLAMA",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. VERÓNICA ARREOLA QUEZADA",
+  "edad" : 4,
+  "peso" : 68.87,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 164,
+  "nombre" : "BADGER",
+  "tipo" : "SALVAJE",
+  "amo" : "ING. JULIA VARELA VELASCO",
+  "edad" : 5,
+  "peso" : 175.058,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 165,
+  "nombre" : "CARIBOU",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. BENJAMÍN CABRERA BÁEZ",
+  "edad" : 16,
+  "peso" : 164.343,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 166,
+  "nombre" : "MANATEE",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. JOSÉ ALBERTO CÁZARES TRUJILLO",
+  "edad" : 17,
+  "peso" : 4.217,
+  "genero" : "MACHO"
+}, {
+  "id" : 167,
+  "nombre" : "MANATEE",
+  "tipo" : "SALVAJE",
+  "amo" : "JUAN LARA SANTOS",
+  "edad" : 15,
+  "peso" : 29.29,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 168,
+  "nombre" : "DOG",
+  "tipo" : "SALVAJE",
+  "amo" : "LORENZO CARMONA ROSAS",
+  "edad" : 15,
+  "peso" : 197.797,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 169,
+  "nombre" : "TOAD",
+  "tipo" : "SALVAJE",
+  "amo" : "MERCEDES ARREDONDO MURILLO",
+  "edad" : 8,
+  "peso" : 152.224,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 170,
+  "nombre" : "FISH",
+  "tipo" : "SALVAJE",
+  "amo" : "TOMÁS ROSAS SALAS",
+  "edad" : 18,
+  "peso" : 84.694,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 171,
+  "nombre" : "ARMADILLO",
+  "tipo" : "SALVAJE",
+  "amo" : "SR. CONSUELO VALENCIA VENTURA",
+  "edad" : 4,
+  "peso" : 108.983,
+  "genero" : "MACHO"
+}, {
+  "id" : 172,
+  "nombre" : "CRAB",
+  "tipo" : "SALVAJE",
+  "amo" : "SRA. ADRIANA MEDRANO DÍAZ",
+  "edad" : 12,
+  "peso" : 21.61,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 173,
+  "nombre" : "MOLE",
+  "tipo" : "SALVAJE",
+  "amo" : "SR. RAYMUNDO MAY BARRIOS",
+  "edad" : 3,
+  "peso" : 54.036,
+  "genero" : "MACHO"
+}, {
+  "id" : 174,
+  "nombre" : "HORSE",
+  "tipo" : "SALVAJE",
+  "amo" : "JORGE RIVERA GUTIÉRREZ",
+  "edad" : 9,
+  "peso" : 76.159,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 175,
+  "nombre" : "BEAVER",
+  "tipo" : "DOMESTICO",
+  "amo" : "DR. REYNA RAMOS DE JESÚS",
+  "edad" : 9,
+  "peso" : 21.523,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 176,
+  "nombre" : "CLAM",
+  "tipo" : "SALVAJE",
+  "amo" : "CARLOS APARICIO GAYTÁN",
+  "edad" : 3,
+  "peso" : 157.478,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 177,
+  "nombre" : "FERRET",
+  "tipo" : "DOMESTICO",
+  "amo" : "SRITA. VERÓNICA TREJO VILLARREAL",
+  "edad" : 20,
+  "peso" : 183.624,
+  "genero" : "MACHO"
+}, {
+  "id" : 178,
+  "nombre" : "LOCUST",
+  "tipo" : "DOMESTICO",
+  "amo" : "CECILIA ANDRADE ZÁRATE",
+  "edad" : 2,
+  "peso" : 120.082,
+  "genero" : "MACHO"
+}, {
+  "id" : 179,
+  "nombre" : "HYENA",
+  "tipo" : "SALVAJE",
+  "amo" : "AGUSTÍN ARREDONDO CANO",
+  "edad" : 3,
+  "peso" : 66.573,
+  "genero" : "MACHO"
+}, {
+  "id" : 180,
+  "nombre" : "MOUSE",
+  "tipo" : "SALVAJE",
+  "amo" : "RAFAEL MEJÍA PERALTA",
+  "edad" : 14,
+  "peso" : 129.5,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 181,
+  "nombre" : "TURTLE ",
+  "tipo" : "SALVAJE",
+  "amo" : "ING. ÁNGELA ARENAS RÍOS",
+  "edad" : 17,
+  "peso" : 190.996,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 182,
+  "nombre" : "CRICKET",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. AGUSTÍN ZÁRATE OCAMPO",
+  "edad" : 13,
+  "peso" : 31.952,
+  "genero" : "MACHO"
+}, {
+  "id" : 183,
+  "nombre" : "TORTOISE",
+  "tipo" : "SALVAJE",
+  "amo" : "GABRIEL ZÁRATE MONTOYA",
+  "edad" : 16,
+  "peso" : 11.572,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 184,
+  "nombre" : "JACKAL",
+  "tipo" : "DOMESTICO",
+  "amo" : "LORENA CARMONA LEAL",
+  "edad" : 12,
+  "peso" : 3.967,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 185,
+  "nombre" : "CAT",
+  "tipo" : "DOMESTICO",
+  "amo" : "ING. ISMAEL CASTRO ZAMORA",
+  "edad" : 2,
+  "peso" : 147.764,
+  "genero" : "MACHO"
+}, {
+  "id" : 186,
+  "nombre" : "COYOTE",
+  "tipo" : "SALVAJE",
+  "amo" : "SR. MAGDALENA CERVANTES VENTURA",
+  "edad" : 13,
+  "peso" : 109.77,
+  "genero" : "MACHO"
+}, {
+  "id" : 187,
+  "nombre" : "MARTEN",
+  "tipo" : "DOMESTICO",
+  "amo" : "SR. FERNANDO VALENZUELA PADILLA",
+  "edad" : 10,
+  "peso" : 170.292,
+  "genero" : "MACHO"
+}, {
+  "id" : 188,
+  "nombre" : "ARMADILLO",
+  "tipo" : "SALVAJE",
+  "amo" : "SRA. VIRGINIA ÁVALOS ROCHA",
+  "edad" : 17,
+  "peso" : 1.411,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 189,
+  "nombre" : "COD",
+  "tipo" : "DOMESTICO",
+  "amo" : "ALBERTO TRUJILLO FUENTES",
+  "edad" : 19,
+  "peso" : 164.395,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 190,
+  "nombre" : "TIGER",
+  "tipo" : "DOMESTICO",
+  "amo" : "ING. TERESA SALAZAR CARRANZA",
+  "edad" : 17,
+  "peso" : 174.472,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 191,
+  "nombre" : "WHALE",
+  "tipo" : "DOMESTICO",
+  "amo" : "MARCO ANTONIO GALINDO MONDRAGÓN",
+  "edad" : 7,
+  "peso" : 155.809,
+  "genero" : "MACHO"
+}, {
+  "id" : 192,
+  "nombre" : "SQUIRREL",
+  "tipo" : "SALVAJE",
+  "amo" : "ING. MARÍA GRANADOS AYALA",
+  "edad" : 18,
+  "peso" : 124.32,
+  "genero" : "MACHO"
+}, {
+  "id" : 193,
+  "nombre" : "GUINEA PIG",
+  "tipo" : "SALVAJE",
+  "amo" : "VIRGINIA DE LA CRUZ ROBLES",
+  "edad" : 14,
+  "peso" : 156.869,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 194,
+  "nombre" : "YAK",
+  "tipo" : "DOMESTICO",
+  "amo" : "DAVID MUÑIZ HIDALGO",
+  "edad" : 4,
+  "peso" : 70.988,
+  "genero" : "MACHO"
+}, {
+  "id" : 195,
+  "nombre" : "KOALA",
+  "tipo" : "SALVAJE",
+  "amo" : "MARIANA BRAVO ÁNGELES",
+  "edad" : 3,
+  "peso" : 198.316,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 196,
+  "nombre" : "DOG",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. BENITO CORONA ALARCÓN",
+  "edad" : 14,
+  "peso" : 154.247,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 197,
+  "nombre" : "LEOPARD",
+  "tipo" : "DOMESTICO",
+  "amo" : "SRITA. ALBERTO VILLARREAL ARRIAGA",
+  "edad" : 5,
+  "peso" : 163.021,
+  "genero" : "MACHO"
+}, {
+  "id" : 198,
+  "nombre" : "DEER",
+  "tipo" : "SALVAJE",
+  "amo" : "ING. SERGIO GARCÍA HUERTA",
+  "edad" : 7,
+  "peso" : 177.08,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 199,
+  "nombre" : "SQUIRREL",
+  "tipo" : "SALVAJE",
+  "amo" : "DAVID SALAZAR BÁEZ",
+  "edad" : 10,
+  "peso" : 195.964,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 200,
+  "nombre" : "LIZARD",
+  "tipo" : "SALVAJE",
+  "amo" : "SRA. CECILIA GARCÍA BARRIOS",
+  "edad" : 9,
+  "peso" : 35.62,
+  "genero" : "MACHO"
+}, {
+  "id" : 201,
+  "nombre" : "ELK",
+  "tipo" : "SALVAJE",
+  "amo" : "MOISÉS SANTANA MUÑIZ",
+  "edad" : 8,
+  "peso" : 45.505,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 202,
+  "nombre" : "MULE",
+  "tipo" : "DOMESTICO",
+  "amo" : "MARISOL TRUJILLO SANTIAGO",
+  "edad" : 10,
+  "peso" : 61.503,
+  "genero" : "MACHO"
+}, {
+  "id" : 203,
+  "nombre" : "CLAM",
+  "tipo" : "SALVAJE",
+  "amo" : "DAVID MORENO RIVERA",
+  "edad" : 19,
+  "peso" : 138.69,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 204,
+  "nombre" : "PLATYPUS",
+  "tipo" : "DOMESTICO",
+  "amo" : "KARINA PAREDES MACÍAS",
+  "edad" : 9,
+  "peso" : 69.169,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 205,
+  "nombre" : "LOCUST",
+  "tipo" : "DOMESTICO",
+  "amo" : "SR. LILIANA CASTRO FIGUEROA",
+  "edad" : 12,
+  "peso" : 83.597,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 206,
+  "nombre" : "ZEBRA",
+  "tipo" : "SALVAJE",
+  "amo" : "ANGELINA PINEDA ESTRADA",
+  "edad" : 7,
+  "peso" : 176.031,
+  "genero" : "MACHO"
+}, {
+  "id" : 207,
+  "nombre" : "WILDEBEEST",
+  "tipo" : "SALVAJE",
+  "amo" : "KARINA MORÁN SANDOVAL",
+  "edad" : 14,
+  "peso" : 39.937,
+  "genero" : "MACHO"
+}, {
+  "id" : 208,
+  "nombre" : "BAT",
+  "tipo" : "SALVAJE",
+  "amo" : "CELIA DE LA ROSA AGUILERA",
+  "edad" : 19,
+  "peso" : 156.49,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 209,
+  "nombre" : "GERBIL",
+  "tipo" : "DOMESTICO",
+  "amo" : "JOSÉ ALBERTO RUIZ VEGA",
+  "edad" : 2,
+  "peso" : 15.662,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 210,
+  "nombre" : "CRAB",
+  "tipo" : "DOMESTICO",
+  "amo" : "SR. SONIA ANAYA ALFARO",
+  "edad" : 7,
+  "peso" : 49.017,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 211,
+  "nombre" : "TOAD",
+  "tipo" : "SALVAJE",
+  "amo" : "ING. JORGE ALBERTO GUZMÁN ALARCÓN",
+  "edad" : 8,
+  "peso" : 53.485,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 212,
+  "nombre" : "LLAMA",
+  "tipo" : "DOMESTICO",
+  "amo" : "LILIA CISNEROS CRUZ",
+  "edad" : 2,
+  "peso" : 143.374,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 213,
+  "nombre" : "GOLDFISH",
+  "tipo" : "SALVAJE",
+  "amo" : "CARLOS CORTEZ ARANDA",
+  "edad" : 17,
+  "peso" : 175.441,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 214,
+  "nombre" : "CLAM",
+  "tipo" : "DOMESTICO",
+  "amo" : "VIRGINIA ROMERO BECERRA",
+  "edad" : 4,
+  "peso" : 46.801,
+  "genero" : "MACHO"
+}, {
+  "id" : 215,
+  "nombre" : "PANDA",
+  "tipo" : "SALVAJE",
+  "amo" : "SRITA. CÉSAR ALFARO SALAS",
+  "edad" : 6,
+  "peso" : 197.074,
+  "genero" : "MACHO"
+}, {
+  "id" : 216,
+  "nombre" : "PORPOISE",
+  "tipo" : "SALVAJE",
+  "amo" : "MARIANA MARÍN ESCAMILLA",
+  "edad" : 18,
+  "peso" : 147.275,
+  "genero" : "MACHO"
+}, {
+  "id" : 217,
+  "nombre" : "SEAL",
+  "tipo" : "SALVAJE",
+  "amo" : "SR. CONCEPCIÓN MALDONADO DÁVILA",
+  "edad" : 8,
+  "peso" : 19.94,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 218,
+  "nombre" : "DOLPHIN",
+  "tipo" : "SALVAJE",
+  "amo" : "MIGUEL VALLE GARCÍA",
+  "edad" : 19,
+  "peso" : 166.773,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 219,
+  "nombre" : "OX",
+  "tipo" : "DOMESTICO",
+  "amo" : "MARIO ALBERTO CORDERO CALDERÓN",
+  "edad" : 8,
+  "peso" : 17.158,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 220,
+  "nombre" : "DEER",
+  "tipo" : "SALVAJE",
+  "amo" : "ANA MARÍA VALENCIA AYALA",
+  "edad" : 20,
+  "peso" : 128.958,
+  "genero" : "MACHO"
+}, {
+  "id" : 221,
+  "nombre" : "BEETLE",
+  "tipo" : "SALVAJE",
+  "amo" : "GUILLERMO ALVARADO MARTÍNEZ",
+  "edad" : 15,
+  "peso" : 158.234,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 222,
+  "nombre" : "BUFFALO",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. JUAN CARLOS CORREA ARROYO",
+  "edad" : 8,
+  "peso" : 79.6,
+  "genero" : "MACHO"
+}, {
+  "id" : 223,
+  "nombre" : "GNAT",
+  "tipo" : "SALVAJE",
+  "amo" : "LUIS ALBERTO SOTO MONTES",
+  "edad" : 19,
+  "peso" : 183.014,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 224,
+  "nombre" : "MACAW",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. ALEJANDRA NÚÑEZ VALENCIA",
+  "edad" : 17,
+  "peso" : 107.051,
+  "genero" : "MACHO"
+}, {
+  "id" : 225,
+  "nombre" : "REINDEER",
+  "tipo" : "DOMESTICO",
+  "amo" : "ING. SOFÍA ESCALANTE SIERRA",
+  "edad" : 16,
+  "peso" : 127.415,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 226,
+  "nombre" : "SERVAL",
+  "tipo" : "DOMESTICO",
+  "amo" : "EDGAR ROSALES ÁVILA",
+  "edad" : 6,
+  "peso" : 154.312,
+  "genero" : "MACHO"
+}, {
+  "id" : 227,
+  "nombre" : "MINK",
+  "tipo" : "DOMESTICO",
+  "amo" : "SR. GREGORIO ALVARADO GUERRERO",
+  "edad" : 8,
+  "peso" : 78.129,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 228,
+  "nombre" : "COD",
+  "tipo" : "DOMESTICO",
+  "amo" : "SR. JOSÉ GUADALUPE ESCOBEDO VELÁZQUEZ",
+  "edad" : 19,
+  "peso" : 90.454,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 229,
+  "nombre" : "FROG",
+  "tipo" : "SALVAJE",
+  "amo" : "ISMAEL ZEPEDA GARDUÑO",
+  "edad" : 15,
+  "peso" : 131.622,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 230,
+  "nombre" : "PORCUPINE",
+  "tipo" : "SALVAJE",
+  "amo" : "JOSÉ ALBERTO TREVIÑO CÓRDOVA",
+  "edad" : 8,
+  "peso" : 60.941,
+  "genero" : "MACHO"
+}, {
+  "id" : 231,
+  "nombre" : "CHEETAH",
+  "tipo" : "SALVAJE",
+  "amo" : "MARÍA LUISA MÉNDEZ MONTOYA",
+  "edad" : 15,
+  "peso" : 146.423,
+  "genero" : "MACHO"
+}, {
+  "id" : 232,
+  "nombre" : "LIZARD",
+  "tipo" : "DOMESTICO",
+  "amo" : "MIRIAM CERVANTES SANTILLÁN",
+  "edad" : 20,
+  "peso" : 76.433,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 233,
+  "nombre" : "SNAKE",
+  "tipo" : "SALVAJE",
+  "amo" : "CONSUELO VILLANUEVA MURILLO",
+  "edad" : 5,
+  "peso" : 59.512,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 234,
+  "nombre" : "MARTEN",
+  "tipo" : "DOMESTICO",
+  "amo" : "ANDRÉS CARRERA ANAYA",
+  "edad" : 8,
+  "peso" : 17.21,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 235,
+  "nombre" : "WHALE",
+  "tipo" : "SALVAJE",
+  "amo" : "LUIS ALBERTO BARRAGÁN PARRA",
+  "edad" : 5,
+  "peso" : 169.949,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 236,
+  "nombre" : "DOG",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. RAMÓN FÉLIX RESÉNDIZ",
+  "edad" : 16,
+  "peso" : 147.031,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 237,
+  "nombre" : "MINK",
+  "tipo" : "SALVAJE",
+  "amo" : "ERNESTO RICO RIVAS",
+  "edad" : 8,
+  "peso" : 60.769,
+  "genero" : "MACHO"
+}, {
+  "id" : 238,
+  "nombre" : "ARMADILLO",
+  "tipo" : "DOMESTICO",
+  "amo" : "DR. JUAN ANTONIO SOLÍS GUEVARA",
+  "edad" : 13,
+  "peso" : 18.66,
+  "genero" : "MACHO"
+}, {
+  "id" : 239,
+  "nombre" : "GRASSHOPPER",
+  "tipo" : "SALVAJE",
+  "amo" : "JOSÉ GÁMEZ VALDÉS",
+  "edad" : 8,
+  "peso" : 73.837,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 240,
+  "nombre" : "SKUNK",
+  "tipo" : "SALVAJE",
+  "amo" : "VICENTE QUIROZ GÁMEZ",
+  "edad" : 19,
+  "peso" : 64.715,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 241,
+  "nombre" : "WASP",
+  "tipo" : "SALVAJE",
+  "amo" : "OLIVIA VALLE ZEPEDA",
+  "edad" : 8,
+  "peso" : 51.999,
+  "genero" : "MACHO"
+}, {
+  "id" : 242,
+  "nombre" : "SKUNK",
+  "tipo" : "SALVAJE",
+  "amo" : "ING. MARIO CORONA NAVARRETE",
+  "edad" : 14,
+  "peso" : 53.527,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 243,
+  "nombre" : "TURTLE ",
+  "tipo" : "SALVAJE",
+  "amo" : "BENITO QUIROZ ACEVEDO",
+  "edad" : 18,
+  "peso" : 53.805,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 244,
+  "nombre" : "PRAIRIE DOG",
+  "tipo" : "SALVAJE",
+  "amo" : "SRA. LORENZO SALINAS ZEPEDA",
+  "edad" : 16,
+  "peso" : 104.594,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 245,
+  "nombre" : "PANDA",
+  "tipo" : "SALVAJE",
+  "amo" : "SRA. ROGELIO CABRERA SALDAÑA",
+  "edad" : 17,
+  "peso" : 38.129,
+  "genero" : "MACHO"
+}, {
+  "id" : 246,
+  "nombre" : "EAGLE",
+  "tipo" : "SALVAJE",
+  "amo" : "SRITA. FELIPE ESCOBAR BLANCO",
+  "edad" : 14,
+  "peso" : 159.095,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 247,
+  "nombre" : "OTTER",
+  "tipo" : "SALVAJE",
+  "amo" : "MIGUEL AGUILAR COVARRUBIAS",
+  "edad" : 4,
+  "peso" : 182.569,
+  "genero" : "MACHO"
+}, {
+  "id" : 248,
+  "nombre" : "BEAVER",
+  "tipo" : "DOMESTICO",
+  "amo" : "SONIA RIVAS VALLE",
+  "edad" : 2,
+  "peso" : 135.519,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 249,
+  "nombre" : "HOUND",
+  "tipo" : "SALVAJE",
+  "amo" : "SRA. ALEJANDRO RUBIO ORTEGA",
+  "edad" : 4,
+  "peso" : 178.572,
+  "genero" : "MACHO"
+}, {
+  "id" : 250,
+  "nombre" : "CHINCHILLA",
+  "tipo" : "SALVAJE",
+  "amo" : "KARINA VILLA DE LA ROSA",
+  "edad" : 17,
+  "peso" : 45.185,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 251,
+  "nombre" : "TORTOISE",
+  "tipo" : "SALVAJE",
+  "amo" : "FABIOLA VILLANUEVA SANTILLÁN",
+  "edad" : 18,
+  "peso" : 151.009,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 252,
+  "nombre" : "OYSTER",
+  "tipo" : "DOMESTICO",
+  "amo" : "SRITA. ROSA NÁJERA QUINTERO",
+  "edad" : 20,
+  "peso" : 68.694,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 253,
+  "nombre" : "HIPPOPOTAMUS",
+  "tipo" : "DOMESTICO",
+  "amo" : "BEATRIZ BONILLA LOZANO",
+  "edad" : 13,
+  "peso" : 31.156,
+  "genero" : "MACHO"
+}, {
+  "id" : 254,
+  "nombre" : "DONKEY",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. ABEL REYNA VELASCO",
+  "edad" : 3,
+  "peso" : 123.051,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 255,
+  "nombre" : "TOAD",
+  "tipo" : "DOMESTICO",
+  "amo" : "DR. MARIO ALBERTO MUÑOZ CABALLERO",
+  "edad" : 18,
+  "peso" : 97.553,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 256,
+  "nombre" : "BABOON",
+  "tipo" : "DOMESTICO",
+  "amo" : "SRA. JORGE LUIS VIDAL MURILLO",
+  "edad" : 17,
+  "peso" : 69.196,
+  "genero" : "MACHO"
+}, {
+  "id" : 257,
+  "nombre" : "SARDINE",
+  "tipo" : "SALVAJE",
+  "amo" : "SRA. CECILIA JUÁREZ ARMENTA",
+  "edad" : 14,
+  "peso" : 172.934,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 258,
+  "nombre" : "PRAIRIE DOG",
+  "tipo" : "DOMESTICO",
+  "amo" : "BENJAMÍN AGUIRRE LIRA",
+  "edad" : 18,
+  "peso" : 174.894,
+  "genero" : "MACHO"
+}, {
+  "id" : 259,
+  "nombre" : "GOAT",
+  "tipo" : "SALVAJE",
+  "amo" : "ANA MARÍA MORENO BARRAGÁN",
+  "edad" : 13,
+  "peso" : 1.518,
+  "genero" : "MACHO"
+}, {
+  "id" : 260,
+  "nombre" : "FLY",
+  "tipo" : "DOMESTICO",
+  "amo" : "HÉCTOR SALAS CÁZARES",
+  "edad" : 17,
+  "peso" : 159.855,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 261,
+  "nombre" : "MINNOW",
+  "tipo" : "SALVAJE",
+  "amo" : "SRITA. JUAN TREVIÑO ESCOBEDO",
+  "edad" : 12,
+  "peso" : 130.704,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 262,
+  "nombre" : "APE",
+  "tipo" : "DOMESTICO",
+  "amo" : "ERNESTO TRUJILLO HIDALGO",
+  "edad" : 20,
+  "peso" : 183.787,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 263,
+  "nombre" : "PORCUPINE",
+  "tipo" : "SALVAJE",
+  "amo" : "SR. NORMA VEGA CORONADO",
+  "edad" : 2,
+  "peso" : 16.562,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 264,
+  "nombre" : "ANTELOPE",
+  "tipo" : "SALVAJE",
+  "amo" : "ELENA DURÁN RAMOS",
+  "edad" : 3,
+  "peso" : 14.724,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 265,
+  "nombre" : "MACAW",
+  "tipo" : "DOMESTICO",
+  "amo" : "SRITA. AURORA VARELA RÍOS",
+  "edad" : 5,
+  "peso" : 136.917,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 266,
+  "nombre" : "LLAMA",
+  "tipo" : "SALVAJE",
+  "amo" : "ROSARIO MEDINA AYALA",
+  "edad" : 12,
+  "peso" : 103.23,
+  "genero" : "MACHO"
+}, {
+  "id" : 267,
+  "nombre" : "CHIMPANZEE",
+  "tipo" : "SALVAJE",
+  "amo" : "ING. RAFAEL LOZANO TOVAR",
+  "edad" : 4,
+  "peso" : 39.368,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 268,
+  "nombre" : "GOLDFISH",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. ANGÉLICA QUINTERO REYES",
+  "edad" : 1,
+  "peso" : 117.093,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 269,
+  "nombre" : "WOLF",
+  "tipo" : "SALVAJE",
+  "amo" : "IRENE ANDRADE CÓRDOVA",
+  "edad" : 17,
+  "peso" : 93.931,
+  "genero" : "MACHO"
+}, {
+  "id" : 270,
+  "nombre" : "DOLPHIN",
+  "tipo" : "DOMESTICO",
+  "amo" : "DR. GUSTAVO ZAPATA CARRANZA",
+  "edad" : 1,
+  "peso" : 134.388,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 271,
+  "nombre" : "ELK",
+  "tipo" : "SALVAJE",
+  "amo" : "SRA. EVA DE LA TORRE FERNÁNDEZ",
+  "edad" : 14,
+  "peso" : 27.525,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 272,
+  "nombre" : "BEAR",
+  "tipo" : "SALVAJE",
+  "amo" : "JAIME PÉREZ SOLANO",
+  "edad" : 11,
+  "peso" : 144.415,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 273,
+  "nombre" : "EAGLE",
+  "tipo" : "DOMESTICO",
+  "amo" : "ING. SANDRA SALAZAR GARDUÑO",
+  "edad" : 14,
+  "peso" : 160.82,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 274,
+  "nombre" : "TORTOISE",
+  "tipo" : "DOMESTICO",
+  "amo" : "MARTHA MORALES VILLANUEVA",
+  "edad" : 8,
+  "peso" : 192.002,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 275,
+  "nombre" : "GUINEA PIG",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. MARÍA LUISA MELÉNDEZ VELÁZQUEZ",
+  "edad" : 2,
+  "peso" : 92.306,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 276,
+  "nombre" : "HORSE",
+  "tipo" : "DOMESTICO",
+  "amo" : "MARTHA MURILLO AMADOR",
+  "edad" : 7,
+  "peso" : 13.824,
+  "genero" : "MACHO"
+}, {
+  "id" : 277,
+  "nombre" : "WALLABY",
+  "tipo" : "SALVAJE",
+  "amo" : "ESTHER CHÁVEZ DE LA ROSA",
+  "edad" : 12,
+  "peso" : 19.467,
+  "genero" : "MACHO"
+}, {
+  "id" : 278,
+  "nombre" : "TROUT",
+  "tipo" : "SALVAJE",
+  "amo" : "ARTURO OSORIO DÁVILA",
+  "edad" : 11,
+  "peso" : 140.736,
+  "genero" : "MACHO"
+}, {
+  "id" : 279,
+  "nombre" : "SEAL",
+  "tipo" : "SALVAJE",
+  "amo" : "JOSÉ ALBERTO MORALES ORTIZ",
+  "edad" : 20,
+  "peso" : 194.057,
+  "genero" : "MACHO"
+}, {
+  "id" : 280,
+  "nombre" : "HOUND",
+  "tipo" : "SALVAJE",
+  "amo" : "RAYMUNDO MUÑOZ CUEVAS",
+  "edad" : 16,
+  "peso" : 178.448,
+  "genero" : "MACHO"
+}, {
+  "id" : 281,
+  "nombre" : "BADGER",
+  "tipo" : "SALVAJE",
+  "amo" : "MARIANA SANTILLÁN BLANCO",
+  "edad" : 6,
+  "peso" : 9.265,
+  "genero" : "MACHO"
+}, {
+  "id" : 282,
+  "nombre" : "MUSKRAT",
+  "tipo" : "SALVAJE",
+  "amo" : "SRA. BENITO SOLÍS BARRON",
+  "edad" : 3,
+  "peso" : 71.606,
+  "genero" : "MACHO"
+}, {
+  "id" : 283,
+  "nombre" : "LLAMA",
+  "tipo" : "DOMESTICO",
+  "amo" : "RAQUEL MORALES CORTEZ",
+  "edad" : 17,
+  "peso" : 2.599,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 284,
+  "nombre" : "PORCUPINE",
+  "tipo" : "DOMESTICO",
+  "amo" : "ING. LORENZO MELÉNDEZ VILLANUEVA",
+  "edad" : 10,
+  "peso" : 14.47,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 285,
+  "nombre" : "PORPOISE",
+  "tipo" : "DOMESTICO",
+  "amo" : "SRITA. MARÍA QUINTERO CASTAÑEDA",
+  "edad" : 9,
+  "peso" : 113.504,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 286,
+  "nombre" : "LLAMA",
+  "tipo" : "SALVAJE",
+  "amo" : "GUADALUPE VALDÉS GALVÁN",
+  "edad" : 8,
+  "peso" : 80.639,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 287,
+  "nombre" : "GOAT",
+  "tipo" : "SALVAJE",
+  "amo" : "JORGE ARREDONDO MORÁN",
+  "edad" : 6,
+  "peso" : 70.425,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 288,
+  "nombre" : "HIPPOPOTAMUS",
+  "tipo" : "DOMESTICO",
+  "amo" : "ING. MARIANA MARTÍNEZ NÚÑEZ",
+  "edad" : 7,
+  "peso" : 52.898,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 289,
+  "nombre" : "FISH",
+  "tipo" : "SALVAJE",
+  "amo" : "PABLO AGUILERA GONZÁLEZ",
+  "edad" : 20,
+  "peso" : 179.888,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 290,
+  "nombre" : "MOOSE",
+  "tipo" : "DOMESTICO",
+  "amo" : "ING. BENJAMÍN TORRES CARRANZA",
+  "edad" : 15,
+  "peso" : 16.61,
+  "genero" : "MACHO"
+}, {
+  "id" : 291,
+  "nombre" : "GORILLA",
+  "tipo" : "SALVAJE",
+  "amo" : "SR. FRANCISCA CARRILLO CORREA",
+  "edad" : 6,
+  "peso" : 40.684,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 292,
+  "nombre" : "MALLARD",
+  "tipo" : "SALVAJE",
+  "amo" : "SRA. JOSEFINA MENDOZA GALINDO",
+  "edad" : 15,
+  "peso" : 149.86,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 293,
+  "nombre" : "RHINOCEROS",
+  "tipo" : "SALVAJE",
+  "amo" : "VICENTE NIETO RAMOS",
+  "edad" : 20,
+  "peso" : 89.548,
+  "genero" : "MACHO"
+}, {
+  "id" : 294,
+  "nombre" : "PORPOISE",
+  "tipo" : "DOMESTICO",
+  "amo" : "SR. CLAUDIA QUINTERO SANTILLÁN",
+  "edad" : 9,
+  "peso" : 99.585,
+  "genero" : "MACHO"
+}, {
+  "id" : 295,
+  "nombre" : "MOUSE",
+  "tipo" : "DOMESTICO",
+  "amo" : "HUGO CRUZ MORA",
+  "edad" : 13,
+  "peso" : 35.727,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 296,
+  "nombre" : "COD",
+  "tipo" : "SALVAJE",
+  "amo" : "SRA. MANUELA VÁSQUEZ VERA",
+  "edad" : 7,
+  "peso" : 130.465,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 297,
+  "nombre" : "CARIBOU",
+  "tipo" : "SALVAJE",
+  "amo" : "SR. CLAUDIA LEAL MIRANDA",
+  "edad" : 13,
+  "peso" : 158.821,
+  "genero" : "MACHO"
+}, {
+  "id" : 298,
+  "nombre" : "BADGER",
+  "tipo" : "SALVAJE",
+  "amo" : "AGUSTÍN CARRASCO MORA",
+  "edad" : 5,
+  "peso" : 149.006,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 299,
+  "nombre" : "MONKEY",
+  "tipo" : "SALVAJE",
+  "amo" : "LORENA FUENTES ALONSO",
+  "edad" : 10,
+  "peso" : 186.709,
+  "genero" : "MACHO"
+}, {
+  "id" : 300,
+  "nombre" : "MANATEE",
+  "tipo" : "SALVAJE",
+  "amo" : "SRA. JUAN CARLOS MARÍN VALENCIA",
+  "edad" : 10,
+  "peso" : 146.722,
+  "genero" : "MACHO"
+}, {
+  "id" : 301,
+  "nombre" : "GOOSE",
+  "tipo" : "DOMESTICO",
+  "amo" : "SRA. GRACIELA ZAVALA CERVANTES",
+  "edad" : 5,
+  "peso" : 32.872,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 302,
+  "nombre" : "CLAM",
+  "tipo" : "DOMESTICO",
+  "amo" : "SR. EDGAR FIGUEROA VERA",
+  "edad" : 13,
+  "peso" : 120.941,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 303,
+  "nombre" : "MOLE",
+  "tipo" : "SALVAJE",
+  "amo" : "ROSA MARÍA MEDRANO REYNA",
+  "edad" : 3,
+  "peso" : 64.886,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 304,
+  "nombre" : "WOMBAT",
+  "tipo" : "DOMESTICO",
+  "amo" : "BENJAMÍN MONROY ROSAS",
+  "edad" : 2,
+  "peso" : 71.028,
+  "genero" : "MACHO"
+}, {
+  "id" : 305,
+  "nombre" : "GOOSE",
+  "tipo" : "DOMESTICO",
+  "amo" : "DR. OMAR CORONA BRAVO",
+  "edad" : 9,
+  "peso" : 171.364,
+  "genero" : "MACHO"
+}, {
+  "id" : 306,
+  "nombre" : "SHEEP",
+  "tipo" : "SALVAJE",
+  "amo" : "RAYMUNDO SOTO ACOSTA",
+  "edad" : 19,
+  "peso" : 64.921,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 307,
+  "nombre" : "CAMEL",
+  "tipo" : "SALVAJE",
+  "amo" : "SR. ELVIRA PARRA VENTURA",
+  "edad" : 18,
+  "peso" : 108.183,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 308,
+  "nombre" : "PANDA",
+  "tipo" : "DOMESTICO",
+  "amo" : "ING. ANGELINA ZARAGOZA URIBE",
+  "edad" : 15,
+  "peso" : 175.54,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 309,
+  "nombre" : "DOG",
+  "tipo" : "SALVAJE",
+  "amo" : "CARMEN CARRERA GÁMEZ",
+  "edad" : 15,
+  "peso" : 89.506,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 310,
+  "nombre" : "SHEEP",
+  "tipo" : "DOMESTICO",
+  "amo" : "ÁNGELA QUEZADA VENTURA",
+  "edad" : 9,
+  "peso" : 115.836,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 311,
+  "nombre" : "DEER",
+  "tipo" : "SALVAJE",
+  "amo" : "SR. NORMA DEL ÁNGEL ZAMORA",
+  "edad" : 14,
+  "peso" : 189.325,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 312,
+  "nombre" : "SQUIRREL",
+  "tipo" : "DOMESTICO",
+  "amo" : "ROSA MARÍA CORDERO CÁRDENAS",
+  "edad" : 16,
+  "peso" : 73.098,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 313,
+  "nombre" : "LOUSE",
+  "tipo" : "SALVAJE",
+  "amo" : "GLORIA BARRERA DÁVILA",
+  "edad" : 2,
+  "peso" : 41.422,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 314,
+  "nombre" : "RHINOCEROS",
+  "tipo" : "SALVAJE",
+  "amo" : "CLAUDIA NÁJERA APARICIO",
+  "edad" : 10,
+  "peso" : 195.004,
+  "genero" : "MACHO"
+}, {
+  "id" : 315,
+  "nombre" : "CAT",
+  "tipo" : "SALVAJE",
+  "amo" : "VÍCTOR ORTIZ ESCOBAR",
+  "edad" : 3,
+  "peso" : 157.47,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 316,
+  "nombre" : "DEER",
+  "tipo" : "SALVAJE",
+  "amo" : "SRA. ÁNGEL DELGADO NAVA",
+  "edad" : 5,
+  "peso" : 195.014,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 317,
+  "nombre" : "RAVEN",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. PEDRO ZÚÑIGA VILLARREAL",
+  "edad" : 8,
+  "peso" : 61.708,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 318,
+  "nombre" : "SKUNK",
+  "tipo" : "DOMESTICO",
+  "amo" : "MARCOS PONCE GALVÁN",
+  "edad" : 5,
+  "peso" : 132.33,
+  "genero" : "MACHO"
+}, {
+  "id" : 319,
+  "nombre" : "DOG",
+  "tipo" : "SALVAJE",
+  "amo" : "RODOLFO ORTEGA OCHOA",
+  "edad" : 7,
+  "peso" : 123.764,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 320,
+  "nombre" : "TROUT",
+  "tipo" : "DOMESTICO",
+  "amo" : "SRITA. OFELIA CORDERO DE JESÚS",
+  "edad" : 16,
+  "peso" : 156.235,
+  "genero" : "MACHO"
+}, {
+  "id" : 321,
+  "nombre" : "DOG",
+  "tipo" : "DOMESTICO",
+  "amo" : "AMALIA GONZÁLEZ ROJAS",
+  "edad" : 5,
+  "peso" : 168.263,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 322,
+  "nombre" : "BAT",
+  "tipo" : "SALVAJE",
+  "amo" : "TOMÁS OCHOA HERNÁNDEZ",
+  "edad" : 2,
+  "peso" : 63.261,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 323,
+  "nombre" : "HAMSTER",
+  "tipo" : "DOMESTICO",
+  "amo" : "SR. OFELIA GUTIÉRREZ CARMONA",
+  "edad" : 3,
+  "peso" : 156.361,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 324,
+  "nombre" : "TURTLE ",
+  "tipo" : "DOMESTICO",
+  "amo" : "JORGE BRAVO RIVERA",
+  "edad" : 11,
+  "peso" : 50.787,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 325,
+  "nombre" : "TOAD",
+  "tipo" : "SALVAJE",
+  "amo" : "JESÚS VILLALOBOS CORTÉS",
+  "edad" : 5,
+  "peso" : 50.692,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 326,
+  "nombre" : "TIGER",
+  "tipo" : "SALVAJE",
+  "amo" : "SRITA. SAÚL LEAL ROSAS",
+  "edad" : 4,
+  "peso" : 1.283,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 327,
+  "nombre" : "MOLE",
+  "tipo" : "SALVAJE",
+  "amo" : "ING. FERNANDO ROMERO PADILLA",
+  "edad" : 12,
+  "peso" : 63.999,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 328,
+  "nombre" : "CHINCHILLA",
+  "tipo" : "SALVAJE",
+  "amo" : "PEDRO OROZCO DÍAZ",
+  "edad" : 12,
+  "peso" : 44.07,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 329,
+  "nombre" : "MAMMOTH",
+  "tipo" : "DOMESTICO",
+  "amo" : "MARTÍN CALDERÓN AGUILERA",
+  "edad" : 3,
+  "peso" : 178.353,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 330,
+  "nombre" : "PANDA",
+  "tipo" : "DOMESTICO",
+  "amo" : "SRITA. ÓSCAR CORTÉS ARIAS",
+  "edad" : 11,
+  "peso" : 7.183,
+  "genero" : "MACHO"
+}, {
+  "id" : 331,
+  "nombre" : "WOODCHUCK",
+  "tipo" : "SALVAJE",
+  "amo" : "SRITA. MIGUEL RIVAS ÁVILA",
+  "edad" : 8,
+  "peso" : 151.813,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 332,
+  "nombre" : "WOMBAT",
+  "tipo" : "SALVAJE",
+  "amo" : "SOFÍA HERRERA QUEZADA",
+  "edad" : 15,
+  "peso" : 50.234,
+  "genero" : "MACHO"
+}, {
+  "id" : 333,
+  "nombre" : "FISH",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. VIRGINIA MURILLO ÁVILA",
+  "edad" : 11,
+  "peso" : 4.662,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 334,
+  "nombre" : "OYSTER",
+  "tipo" : "DOMESTICO",
+  "amo" : "ING. SOFÍA MUÑOZ CUEVAS",
+  "edad" : 17,
+  "peso" : 114.486,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 335,
+  "nombre" : "GIRAFFE",
+  "tipo" : "SALVAJE",
+  "amo" : "SUSANA SORIANO ENRÍQUEZ",
+  "edad" : 2,
+  "peso" : 61.79,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 336,
+  "nombre" : "MACAW",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. GUILLERMO FLORES RUIZ",
+  "edad" : 13,
+  "peso" : 173.641,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 337,
+  "nombre" : "TIGER",
+  "tipo" : "DOMESTICO",
+  "amo" : "VERÓNICA DE LA CRUZ ACOSTA",
+  "edad" : 16,
+  "peso" : 177.619,
+  "genero" : "MACHO"
+}, {
+  "id" : 338,
+  "nombre" : "SEAL",
+  "tipo" : "SALVAJE",
+  "amo" : "JOSÉ ALBERTO CORDERO CARRERA",
+  "edad" : 7,
+  "peso" : 19.561,
+  "genero" : "MACHO"
+}, {
+  "id" : 339,
+  "nombre" : "PANDA",
+  "tipo" : "SALVAJE",
+  "amo" : "SRA. JOSÉ ALBERTO ALONSO CARRERA",
+  "edad" : 14,
+  "peso" : 2.594,
+  "genero" : "MACHO"
+}, {
+  "id" : 340,
+  "nombre" : "LOCUST",
+  "tipo" : "SALVAJE",
+  "amo" : "VICTORIA GUILLÉN ZAMORA",
+  "edad" : 16,
+  "peso" : 109.34,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 341,
+  "nombre" : "COCKROACH",
+  "tipo" : "SALVAJE",
+  "amo" : "MARIO ARROYO VERA",
+  "edad" : 18,
+  "peso" : 32.559,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 342,
+  "nombre" : "MUSKRAT",
+  "tipo" : "SALVAJE",
+  "amo" : "LIDIA GUEVARA DE LA TORRE",
+  "edad" : 2,
+  "peso" : 103.254,
+  "genero" : "MACHO"
+}, {
+  "id" : 343,
+  "nombre" : "EEL",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. FERNANDO GÁLVEZ MEDRANO",
+  "edad" : 18,
+  "peso" : 114.055,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 344,
+  "nombre" : "EAGLE",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. ELIZABETH TÉLLEZ TÉLLEZ",
+  "edad" : 5,
+  "peso" : 79.02,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 345,
+  "nombre" : "HEDGEHOG",
+  "tipo" : "DOMESTICO",
+  "amo" : "CÉSAR CORTEZ MORALES",
+  "edad" : 18,
+  "peso" : 84.364,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 346,
+  "nombre" : "JACKAL",
+  "tipo" : "SALVAJE",
+  "amo" : "DR. JOEL ESPINOZA ZAVALA",
+  "edad" : 2,
+  "peso" : 47.013,
+  "genero" : "MACHO"
+}, {
+  "id" : 347,
+  "nombre" : "MALLARD",
+  "tipo" : "SALVAJE",
+  "amo" : "ING. CARLOS RICO ESCALANTE",
+  "edad" : 12,
+  "peso" : 69.716,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 348,
+  "nombre" : "PORCUPINE",
+  "tipo" : "DOMESTICO",
+  "amo" : "ING. ESTHER TRUJILLO BÁEZ",
+  "edad" : 8,
+  "peso" : 149.449,
+  "genero" : "MACHO"
+}, {
+  "id" : 349,
+  "nombre" : "RHINOCEROS",
+  "tipo" : "SALVAJE",
+  "amo" : "SRITA. ERIKA ENRÍQUEZ NAVARRETE",
+  "edad" : 17,
+  "peso" : 95.334,
+  "genero" : "HEMBRA"
+}, {
+  "id" : 350,
+  "nombre" : "RACCOON",
+  "tipo" : "SALVAJE",
+  "amo" : "RAYMUNDO PALMA BAUTISTA",
+  "edad" : 14,
+  "peso" : 19.701,
+  "genero" : "MACHO"
+} ]
