@@ -1,15 +1,12 @@
 package dataInt;
 
-import com.github.javafaker.Faker;
-
 import java.util.Arrays;
 
 public class Ejercicio4 {
     public static void main(String[] args) {
-        final var listaArray = new int[10];
-        for (int i = 0; i <= listaArray.length - 1; i++) {
-            listaArray[i] = new Faker().number().numberBetween(1, 50);
-        }
+        final var listaArray = new int[15];
+        Utiles.generarNumeros(listaArray);
+        System.out.printf("Números Aleatorios: %s%n", Arrays.toString(listaArray));
         ordenarNumeros(listaArray);
         mostrarResultado(listaArray);
     }
@@ -17,7 +14,6 @@ public class Ejercicio4 {
     //Metodo de Ordenamiento
     public static void ordenarNumeros(int[] array) {
         final var n = array.length;
-
         for (var i = 0; i < n; i++) {
             for (var j = 0; j < n - i - 1; j++) {
                 if (array[j] > array[j + 1]) {
@@ -29,9 +25,8 @@ public class Ejercicio4 {
         }
     }
 
-    //Imprimir Valores
+    //Imprimir valores ordenados
     private static void mostrarResultado(int[] ordenar) {
-        System.out.printf("Ordenar números aleatorios: %s", Arrays.toString(ordenar));
+        System.out.printf("Ordenamiento de los números: %s%n", Arrays.toString(ordenar));
     }
-
 }

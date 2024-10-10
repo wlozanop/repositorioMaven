@@ -1,22 +1,19 @@
 package dataInt;
 
-import com.github.javafaker.Faker;
-
 import java.util.Arrays;
 
 public class Ejercicio1 {
     public static void main(String[] args) {
         final var listaArray = new int[50];
-        for (int i = 0; i <= listaArray.length - 1; i++) {
-            listaArray[i] = new Faker().number().numberBetween(1, 1000);
-        }
+        Utiles.numerosGrandes(listaArray);
         valoresAleatorias(listaArray);
         resultadoMultiplicado(nuevoArray(listaArray));
     }
 
     //Metodo que Multiplica los valores Aleatorios
     public static int[] nuevoArray(int[] nuevaListaArray) {
-        for (int i = 0; i <= nuevaListaArray.length - 1; i++) {
+        final var n = nuevaListaArray.length;
+        for (int i = 0; i < n; i++) {
             nuevaListaArray[i] = nuevaListaArray[i] * 2;
         }
         return nuevaListaArray;
@@ -24,7 +21,7 @@ public class Ejercicio1 {
 
     //Imprimir Valores Aleatorios
     private static void valoresAleatorias(int[] primerArray) {
-        System.out.printf("Ver valores Aleatorios: %s%n", Arrays.toString(primerArray));
+        System.out.printf("Ver valores aleatorios: %s%n", Arrays.toString(primerArray));
     }
 
     //Imprimir Valores Multiplicados
