@@ -13,7 +13,7 @@ public class Ejercicio3 {
     private static int mostrarSumaTotal(int[] nuevaListaArray) {
         var suma = 0;
         final var n = nuevaListaArray.length;
-        for (int i = 0; i < n; i++) {
+        for (var i = 0; i < n; i++) {
             suma += nuevaListaArray[i];
         }
         return suma;

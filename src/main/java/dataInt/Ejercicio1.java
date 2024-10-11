@@ -12,7 +12,7 @@ public class Ejercicio1 {
     //Metodo que Multiplica los valores Aleatorios
     private static List<Integer> multiplicarArray(List<Integer> nuevaListaArray) {
         final var n = nuevaListaArray.size();
-        for (int i = 0; i < n; i++) {
+        for (var i = 0; i < n; i++) {
             nuevaListaArray.set(i, nuevaListaArray.get(i) * 2);
         }
         return nuevaListaArray;
