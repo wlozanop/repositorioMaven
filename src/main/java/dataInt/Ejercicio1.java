@@ -1,31 +1,31 @@
 package dataInt;
 
-import java.util.Arrays;
+import java.util.List;
+import java.util.Random;
 
 public class Ejercicio1 {
     public static void main(String[] args) {
-        final var listaArray = new int[50];
-        Utiles.numerosGrandes(listaArray);
+        final var listaArray = Utiles.generarListaNumeros(20, 1, 1000, new Random());
         valoresAleatorias(listaArray);
         resultadoMultiplicado(nuevoArray(listaArray));
     }
 
     //Metodo que Multiplica los valores Aleatorios
-    public static int[] nuevoArray(int[] nuevaListaArray) {
-        final var n = nuevaListaArray.length;
+    public static List<Integer> nuevoArray(List<Integer> nuevaListaArray) {
+        final var n = nuevaListaArray.size();
         for (int i = 0; i < n; i++) {
-            nuevaListaArray[i] = nuevaListaArray[i] * 2;
+            nuevaListaArray.set(i, nuevaListaArray.get(i) * 2);
         }
         return nuevaListaArray;
     }
 
     //Imprimir Valores Aleatorios
-    private static void valoresAleatorias(int[] primerArray) {
-        System.out.printf("Ver valores aleatorios: %s%n", Arrays.toString(primerArray));
+    private static void valoresAleatorias(List<Integer> primerArray) {
+        System.out.printf("Ver valores aleatorios     : %s%n", primerArray);
     }
 
     //Imprimir Valores Multiplicados
-    private static void resultadoMultiplicado(int[] resultadoArray) {
-        System.out.printf("Ver resultado multiplicado: %s%n", Arrays.toString(resultadoArray));
+    private static void resultadoMultiplicado(List<Integer> resultadoArray) {
+        System.out.printf("Ver resultado multiplicado : %s%n", resultadoArray);
     }
 }
