@@ -1,27 +1,26 @@
 package dataInt;
 
-import java.util.List;
-import java.util.Random;
+import java.util.Arrays;
 
 public class Ejercicio3 {
     public static void main(String[] args) {
-        final var listaArray = Utiles.generarListaNumeros(10, 1, 40, new Random());
-        valoresAleatorias(listaArray);
-        muestraSumaTotal(listaArray);
+        final var listaArray = Utiles.aletarioArray(10, 1, 40);
+        imprimirValoresAleatorias(listaArray);
+        mostrarSumaTotal(listaArray);
     }
 
     //Metodo que hace la suma total
-    public static void muestraSumaTotal(List<Integer> nuevaListaArray) {
+    public static void mostrarSumaTotal(int[] nuevaListaArray) {
         var suma = 0;
-        final var n = nuevaListaArray.size();
+        final var n = nuevaListaArray.length;
         for (int i = 0; i < n; i++) {
-            suma += nuevaListaArray.get(i);
+            suma += nuevaListaArray[i];
         }
         System.out.printf("La suma es         : %s%n", suma);
     }
 
     //Imprimir Valores Aleatorios
-    private static void valoresAleatorias(List<Integer> primerArray) {
-        System.out.printf("Números Aleatorios : %s%n", primerArray);
+    private static void imprimirValoresAleatorias(int[] primerArray) {
+        System.out.printf("Números Aleatorios : %s%n", Arrays.toString(primerArray));
     }
 }

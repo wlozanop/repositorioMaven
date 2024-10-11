@@ -1,30 +1,26 @@
 package dataInt;
 
+import com.github.javafaker.Faker;
+
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Random;
 
 public class Utiles {
-    //Método que recorre la lista
-    static List<Integer> generarListaNumeros(int n, int min, int max, Random random) {
-        final var lista = new ArrayList<Integer>();
+    //Metodo que genera una lista de números aleatorios
+    public static List<Integer> aleatario(int n, int min, int max) {
+        final var array = new ArrayList<Integer>();
         for (var i = 0; i < n; i++) {
-            lista.add(aleatorioInt(min, max, random));
-        }
-        return lista;
-    }
-
-    //Método que recorre el array
-    public static int[] generarArrayNumeros(int n, int min, int max, Random random) {
-        final var array = new int[n];
-        for (var i = 0; i < n; i++) {
-            array[i] = aleatorioInt(min, max, random);
+            array.add(i, new Faker().number().numberBetween(min, max));
         }
         return array;
     }
 
-    //Metodo que genera los numeros random
-    static int aleatorioInt(int minimo, int maximo, Random random) {
-        return random.nextInt(maximo - minimo + 1) + minimo;
+    //Metodo que genera un array de números aleatorios
+    public static int[] aletarioArray(int n, int min, int max) {
+        final var array = new int[n];
+        for (var i = 0; i < n; i++) {
+            array[i] = new Faker().number().numberBetween(min, max);
+        }
+        return array;
     }
 }
