@@ -4,14 +4,14 @@ import java.util.Arrays;
 
 public class Ejercicio4 {
     public static void main(String[] args) {
-        final var listaArray = Utiles.aletarioArray(20, 1, 40);
+        final var listaArray = Utiles.generarArrayIntAletario(20, 1, 40);
         System.out.printf("Números Aleatorios          : %s%n", Arrays.toString(listaArray));
         ordenarNumeros(listaArray);
         imprimirResultado(listaArray);
     }
 
     //Metodo de Ordenamiento
-    public static void ordenarNumeros(int[] array) {
+    private static void ordenarNumeros(int[] array) {
         final var n = array.length;
         for (var i = 0; i < n; i++) {
             for (var j = 0; j < n - i - 1; j++) {

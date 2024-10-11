@@ -4,13 +4,13 @@ import java.util.List;
 
 public class Ejercicio1 {
     public static void main(String[] args) {
-        final var listaArray = Utiles.aleatario(20, 1, 1000);
+        final var listaArray = Utiles.generarListaIntaleatario(20, 1, 1000);
         imprimirValoresAleatorias(listaArray);
         mostrarResultadoMultiplicado(multiplicarArray(listaArray));
     }
 
     //Metodo que Multiplica los valores Aleatorios
-    public static List<Integer> multiplicarArray(List<Integer> nuevaListaArray) {
+    private static List<Integer> multiplicarArray(List<Integer> nuevaListaArray) {
         final var n = nuevaListaArray.size();
         for (int i = 0; i < n; i++) {
             nuevaListaArray.set(i, nuevaListaArray.get(i) * 2);
