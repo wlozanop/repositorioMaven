@@ -1,4 +1,4 @@
-package dataInt;
+package utilities;
 
 import com.github.javafaker.Faker;
 

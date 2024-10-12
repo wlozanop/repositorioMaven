@@ -1,5 +1,7 @@
 package dataInt;
 
+import utilities.Utiles;
+
 import java.util.Arrays;
 
 public class Ejercicio3 {
