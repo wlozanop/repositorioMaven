@@ -23,4 +23,22 @@ public class Utiles {
         }
         return array;
     }
+
+    //Metodo que genera una lista de números aleatorios tipo Double
+    public static List<Double> generarListaDoubleAleatario(int n, int min, int max) {
+        final var array = new ArrayList<Double>();
+        for (var i = 0; i < n; i++) {
+            array.add(i, new Faker().number().randomDouble(n, min, max));
+        }
+        return array;
+    }
+
+    //Metodo que genera un array de números aleatorios tipo Double
+    public static double[] generarArrayDoubleAletario(int n, int min, int max) {
+        final var array = new double[n];
+        for (var i = 0; i < n; i++) {
+            array[i] = new Faker().number().randomDouble(n, min, max);
+        }
+        return array;
+    }
 }
