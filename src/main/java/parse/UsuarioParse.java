@@ -14,7 +14,6 @@ public class UsuarioParse {
 
         for (var elemento : listaUsuario) {
             map.put(elemento.getId(), elemento);
-            map.put(elemento.getPais(), elemento);
         }
         return map;
     }
