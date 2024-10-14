@@ -20,11 +20,9 @@ public class Ejercicio1 {
         final var listaFiltrado = new ArrayList<Usuario>();
 
         for (var elemento : lista) {
-            var condicionPeso = elemento.getPeso();
-            var condicion1 = elemento.getNombre().startsWith(primeraLetraNombre);
-            var condicion2 = elemento.getApellido().endsWith(ultimaLetraApellido);
-
-            if (condicionPeso > peso && condicion1 && condicion2) {
+            if (elemento.getPeso() > peso &&
+                    elemento.getNombre().startsWith(primeraLetraNombre) &&
+                    elemento.getApellido().endsWith(ultimaLetraApellido)) {
                 listaFiltrado.add(elemento);
             }
         }
