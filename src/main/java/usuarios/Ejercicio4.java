@@ -14,7 +14,7 @@ public class Ejercicio4 {
     }
 
     //Método para ordenar la lista DESCENDENTE Z - A
-    static void ordenarLista(Usuario[] array) {
+    private static void ordenarLista(Usuario[] array) {
         final var n = array.length;
 
         for (var i = 0; i < n; i++) {
@@ -29,7 +29,7 @@ public class Ejercicio4 {
     }
 
     //Método para mostrar el resultado
-    static void imprimirArray(Usuario[] array) {
+    private static void imprimirArray(Usuario[] array) {
         System.out.printf("%s%n", Arrays.toString(array));
         System.out.printf("Cantidad encontrado: %d%n", array.length);
     }
